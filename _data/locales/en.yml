@@ -4,7 +4,7 @@ en:
     about: Acerca
     contribute: Contribuir
   index:
-    lead: Una guía abierta para gobiernos locales trabajando de manera ágil y remota.
+    lead: Una guía abierta para gobiernos locales trabajando de manera ágil y remota en tiempos de emergencia sanitaria.
   article:
     table_of_contents: Tabla de contenidos
     back_to_all_guides: Regresar a las otras secciones
@@ -16,11 +16,11 @@ en:
       button: Contribuir
     subscribe:
       heading: Contacto
-      description: Si quieres saber más al respecto de lo que hacemos no dudes en escribirnos.
+      description: Si quieres saber más acerca de lo que hacemos, no dudes en escribirnos.
       button: Contacto
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] con [love] por [github] y [friends]"
+      format: "[code] con [love] por [friends]"
       # Label for code octicon
       code_label: code
       # Label for love octicon
