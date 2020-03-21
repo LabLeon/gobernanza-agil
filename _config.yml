@@ -1,5 +1,5 @@
-title: Open Source Guides
-description: Learn how to launch and grow your project.
+title: Gobernanza Ágil
+description: Una guía para gobiernos locales trabajando de manera ágil y remota.
 
 exclude:
   - bin
@@ -49,10 +49,10 @@ sass:
 logo: /assets/images/cards/default.png
 
 github:
-  repository_nwo: github/opensource.guide
+  repository_nwo: https://github.com/LabLeon/gobernanza-agil
 
 twitter:
-  username: github
+  username: lableon_
 
 facebook:
-  publisher: https://www.facebook.com/GitHub/
+  publisher: https://www.facebook.com/lab.leon.DGI/
