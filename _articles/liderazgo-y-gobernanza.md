@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: Liderazgo y Gobernanza
+description: Descubre tu rol dentro del equipo, como líder se necesitan reglas formales para tomar decisiones.
 class: leadership
 toc:
   understanding-governance-for-your-growing-project: "Understanding governance for your growing project"
@@ -12,7 +12,7 @@ toc:
   do-i-need-governance-docs-when-i-launch-my-project: "Do I need governance docs when I launch my project?"
   what-happens-if-corporate-employees-start-submitting-contributions: "What happens if corporate employees start submitting contributions?"
   do-i-need-a-legal-entity-to-support-my-project: "Do I need a legal entity to support my project?"
-order: 6
+order: 2
 image: /assets/images/cards/leadership.png
 related:
   - best-practices

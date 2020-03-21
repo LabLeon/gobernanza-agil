@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+title: Comunicación y Colaboración
+description: Canales de comunicación efectivos y metodologías para colaborar desde la nube.
 class: building
 toc:
   setting-your-project-up-for-success: "Setting your project up for success"

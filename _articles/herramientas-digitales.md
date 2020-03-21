@@ -1,7 +1,7 @@
 ---
 lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+title: Herramientas Digitales
+description: Facilita la integración de una metodología de trabajo remoto con las herramietnas adecuadas.
 class: best-practices
 toc:
   what-does-it-mean-to-be-a-maintainer: "What does it mean to be a maintainer?"

@@ -1,7 +1,7 @@
 ---
 lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+title: Introducción
+description: Empieza aquí sin importar tu rol de trabajo. ¿Para quién es esta guía y qué esperar de ella?
 class: contribute
 toc:
   why-contribute-to-open-source: "Why contribute to open source?"
