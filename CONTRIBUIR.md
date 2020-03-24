@@ -29,12 +29,12 @@ Hay muchas formas en las que se puede contribuir directamente a la comunidad, su
 
 ## Reglas básicas y expectativas
 
-Para contribuir, primero discute tu propuesta a través de alguno de nuestros canales de comunicación, ya sea correo electrónico o cualquier otro medio con los coordinadores de la comunidad. Ten en cuenta que tenemos un [Código de Conducta](./COD.md), es importante tomarlo en cuenta en todas tus interacciones con nosotros.
+Para contribuir, primero discute tu propuesta a través de alguno de nuestros canales de comunicación, ya sea correo electrónico o cualquier otro medio con los colaboradores de Lab León. Ten en cuenta que tenemos un [Código de Conducta](COD.md), es importante tomarlo en cuenta en todas tus interacciones con nosotros.
 
 Antes de comenzar, aquí hay algunas cosas que esperamos de ti (y que se deben esperar de otros):
 
 * Se amable y reflexivo en tus conversaciones sobre la aportación que realizas. Todos venimos de diferentes orígenes y proyectos, lo que significa que probablemente tengamos diferentes perspectivas sobre _"cómo se debe hacer"_. Intenta escuchar a los demás en lugar de convencerlos de que tu camino es correcto.
-* Los proyectos y actividades se realizan con un [Código de Conducta](./COD.md). Al participar, aceptas cumplir con sus términos y condiciones.
+* Los proyectos y actividades se realizan con un [Código de Conducta](COD.md). Al participar, aceptas cumplir con sus términos y condiciones.
 * Al hacer una contribución, considera si es realmente valioso. Por favor, no añadas referencias, información o propuestas a cosas que estén fuera de los objetivos de la comunidad.
 
 ## Contribuir en alguno de los repositorios de Lab León
