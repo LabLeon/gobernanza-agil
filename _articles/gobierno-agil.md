@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Gobernanza Ágil
+title: Gobierno Ágil
 description: Cómo romper los paradigmas de una respuesta lenta y burocrática.
 class: best-practices
 toc:
