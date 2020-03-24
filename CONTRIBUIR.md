@@ -1,13 +1,14 @@
 ---
-layout: default
+layout: article-alt
+title: Contribuir
+lang: en
+untranslated: true
 ---
-
-# Contribuir
 
 ¡Gracias por consultar nuestra Guía de Trabajo a Distancia! Nos emociona escuchar y aprender de todos, las experiencias conjuntas benefician a la comunidad que lee y usa estas guías.
 
 Hemos reunido una serie de recomendaciones para ayudarte a descubrir dónde y cómo puede ser más útil una contribución a nuestra guía.
-
+<!-- 
 ## Tabla de contenidos
 
 1. [Tipos de contribuciones que estamos buscando](#Tipos-de-contribuciones-que-estamos-buscando)
@@ -15,7 +16,7 @@ Hemos reunido una serie de recomendaciones para ayudarte a descubrir dónde y c�
 3. [Contribuir en alguno de los repositorios de Lab León](#Contribuir-en-alguno-de-los-repositorios-de-Future-Lab)
 4. [Compartir - divulgación de ciencia y tecnología](#style-guide)
 5. [Colaborar - alianzas con otras organizaciones](#setting-up-your-environment)
-6. [Otros detalles](#Otros-detalles)
+6. [Otros detalles](#Otros-detalles) -->
 
 ## Tipos de contribuciones que estamos buscando
 

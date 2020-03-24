@@ -3,15 +3,11 @@ description: Una guía para gobiernos locales trabajando de manera ágil y remot
 
 exclude:
   - bin
-  - CNAME
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
   - docs
   - Gemfile*
   - node_modules
   - package.json
   - Rakefile
-  - README.md
   - script
   - test
   - vendor
@@ -49,7 +45,7 @@ sass:
 logo: /assets/images/cards/default.png
 
 github:
-  repository_nwo: https://github.com/LabLeon/gobernanza-agil
+  repository_nwo: https://github.com/LabLeon/gobierno-agil
 
 twitter:
   username: lableon_

@@ -1,4 +1,9 @@
-# Código de conducta
+---
+layout: article-alt
+title: Código de conducta
+lang: en
+untranslated: true
+---
 
 **TL; DR. Se respetuoso.** El acoso y el abuso nunca son tolerados. Si te encuentras en una situación que te incomoda dentro de Lab León, si alguna de las actividades o proyectos en sí mismo está creando un ambiente inseguro o inapropiado, o si interactuar con un miembro o colaborador de la comunidad te incomoda, infórmanos utilizando los procedimientos incluidos en este documento.
 
