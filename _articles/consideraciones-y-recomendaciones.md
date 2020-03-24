@@ -7,11 +7,11 @@ toc:
   conceptos-erróneos: "Conceptos erróneos"
   dinámicas-de-socialización: "Dinámicas de socialización"
   recomendaciones: "Recomendaciones"
-order: 6
+order: 4
 image: /assets/images/cards/metrics.png
 related:
-  - finding
   - best-practices
+  - leadership
 ---
 
 ## Conceptos erróneos

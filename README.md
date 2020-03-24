@@ -76,7 +76,7 @@ Consulta cómo puedes contribuir [aquí](https://github.com/LabLeon/gobierno-agi
 
 ## Atribuciones
 
-La Guía de Trabajo a Distancia se creó y está liderada por [Lab León](lableon.org).
+La Guía de Trabajo a Distancia se creó y está liderada por [Lab León](http://lableon.org).
 
 Junto con los aportes de revisores externos de la ciudadanía, servidores públicos y otros colaboradores se ha creado este contenido, pero no es contenido exclusivo de Lab León. Una razón por la que comenzamos este proyecto es porque sentimos que no había suficientes recursos enfocados hacia el gobierno y las instancias públicas para los equipos que requieren responder de manera inmediata a la emergencia sanitaria.
 
