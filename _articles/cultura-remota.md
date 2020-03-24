@@ -67,9 +67,6 @@ Nunca trabajes desde tu cama.
 - Fija un horario de trabajo adecuado a tus actividades.
 No te levantes inmediatamente a trabajar, trata de despertar antes de la hora establecida para despejar la mente.
 
-
-Esto puede causar una disociación de conceptos en tu cerebro y puede que encuentres dificultades a la hora de dormir
-
 **A la hora de Trabajar:**
 
 - Define (solo o en conjunto) en lo que trabajarás hoy, ten en cuenta la meta del día.
@@ -123,19 +120,19 @@ Si quieres evitar las reuniones que parecen monólogos aparentemente interminabl
   Crear participación y estructura democratizadas hace que las reuniones sean sencillas de manejar.
 </aside>
 
-- [ ] **Define** si es una junta para resolver dudas, tomar decisiones o presentar una propuesta.
-- [ ] **Vístete para la reunión** — Preséntate así como te vistes para una reunión si fuera presencial.
-- [ ] **Utiliza audífonos y micrófono** — Te ayudarán a escuchar claramente la voz de los demás y a cancelar la mayoría de los ruidos ambientales alrededor de ti.
-- [ ] **Micrófono en Mudo/Mute** — Antes de entrar a la reunión y cuando no estés hablando, apaga tu micrófono para evitar ruidos de fondo que puedan distraer o molestar a los asistentes. Revisa que esté encendido antes de volver a hablar.
-- [ ] **Video encendido** — ¡Humaniza la llamada! Ten en cuenta que aproximadamente el 70% de nuestra comunicación es no verbal. Enciende tu cámara e interactúa con las personas en la llamada mirando sus caras y reaccionando naturalmente a sus comentarios.
-- [ ] Solo **apaga el video en caso de que la conexión sea mala** e interfiera con la conversación.
-- [ ] **Chat activo** — Habilita el chat y úsalo para hacer comentarios y compartir herramientas sin interrumpir a quien está hablando. Asigna a una persona para que siempre esté leyendo los comentarios. Procura que siempre vayan en línea con la conversación actual para evitar dos conversaciones simultáneas.
-- [ ] **No multitasking**. Estar presente lleva a que la reunión sea ágil, clara y efectiva. Abre una ventana exclusivamente para tu llamada o utiliza la opción de “nuevo escritorio” para concentrarte en la reunión.
+- **Define** si es una junta para resolver dudas, tomar decisiones o presentar una propuesta.
+- **Vístete para la reunión** — Preséntate así como te vistes para una reunión si fuera presencial.
+- **Utiliza audífonos y micrófono** — Te ayudarán a escuchar claramente la voz de los demás y a cancelar la mayoría de los ruidos ambientales alrededor de ti.
+- **Micrófono en Mudo/Mute** — Antes de entrar a la reunión y cuando no estés hablando, apaga tu micrófono para evitar ruidos de fondo que puedan distraer o molestar a los asistentes. Revisa que esté encendido antes de volver a hablar.
+- **Video encendido** — ¡Humaniza la llamada! Ten en cuenta que aproximadamente el 70% de nuestra comunicación es no verbal. Enciende tu cámara e interactúa con las personas en la llamada mirando sus caras y reaccionando naturalmente a sus comentarios.
+- Solo **apaga el video en caso de que la conexión sea mala** e interfiera con la conversación.
+- **Chat activo** — Habilita el chat y úsalo para hacer comentarios y compartir herramientas sin interrumpir a quien está hablando. Asigna a una persona para que siempre esté leyendo los comentarios. Procura que siempre vayan en línea con la conversación actual para evitar dos conversaciones simultáneas.
+- **No multitasking**. Estar presente lleva a que la reunión sea ágil, clara y efectiva. Abre una ventana exclusivamente para tu llamada o utiliza la opción de “nuevo escritorio” para concentrarte en la reunión.
 
 ### Colaboración a distancia
 
 Los documentos en la nube son el mejor aliado para colaborar entre varias personas y equipos.
 
-- [ ] Revisa el objetivo de las juntas que normalmente se llevan a cabo y determina si es realmente necesario que se reúnan de manera síncrona.
-- [ ] Lleva la conversación a un documento en la nube - Utiliza las funciones de sugerencias y comentarios para revisar el proyecto de manera asíncrona.
-- [ ] Asigna tareas a través de la plataforma con un simple “@” .
+- Revisa el objetivo de las juntas que normalmente se llevan a cabo y determina si es realmente necesario que se reúnan de manera síncrona.
+- Lleva la conversación a un documento en la nube - Utiliza las funciones de sugerencias y comentarios para revisar el proyecto de manera asíncrona.
+- Asigna tareas a través de la plataforma con un simple “@” .

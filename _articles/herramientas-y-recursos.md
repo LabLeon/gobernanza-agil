@@ -17,7 +17,9 @@ related:
 
 ## Paquetes de Aplicaciones en la Nube
 
-Las herramientas son más importantes en el trabajo remoto porque son la base de la comunicación. No puedes acercarte al escritorio de alguien para hablar con él; necesitas adaptar las herramientas para convertirse en una _"oficina virtual"_.
+Las herramientas son más importantes en el trabajo remoto porque son la base de la comunicación.
+
+No puedes acercarte al escritorio de alguien para hablar con él; necesitas adaptar las herramientas para convertirse en una _"oficina virtual"_.
 
 Aquí hay un resumen de los tipos de herramientas más importantes que debe tener en cuenta para hacer el trabajo remoto efectivo y más sencillo, así como algunas recomendaciones específicas:
 
