@@ -1,60 +1,82 @@
 ---
 lang: en
-title: Consideraciones y Recomendaciones
-description: Existen buenas prácticas a seguir, pero todo es un proceso continuo de adaptación.
+title: Introducción al Trabajo Remoto
+description: Crea un flujo de trabajo efectivo para el equipo y sus colaboradores.
 class: metrics
 toc:
-  conceptos-erróneos: "Conceptos Erróneos"
-  dinámicas-de-socialización: "Dinámicas de Socialización"
-  recomendaciones: "Recomendaciones de Salud"
-order: 4
+  cultura-de-equipo-remoto: "Cultura de equipo remoto"
+  estructurar-el-trabajo-remoto: "Estructurar el trabajo remoto"
+  retroalimentación: "Retroalimentación"
+order: 1
 image: /assets/images/cards/metrics.png
 related:
   - best-practices
   - leadership
 ---
 
-## Conceptos Erróneos
+## Cultura de equipo remoto 👩‍💼
+Adaptarse al cambio significa generar las condiciones necesarias para el trabajo a distancia.
 
-Existe la percepción de que si no puede ver físicamente a alguien sentado en su escritorio haciendo el trabajo, entonces no está haciendo nada.
+Lograr un ambiente para el trabajo remoto efectivo comienza por los directores y tomadores de decisiones de las instituciones públicas, es esencial entender la importancia de definir una estrategia para los distintos equipos que estarán trabajando a distancia.  La tarea de los líderes de equipo es poner en marcha procesos inclusivos para implementar esta estrategia y corregir los comportamientos no amigables para el trabajo remoto con el fin de lograr una experiencia exitosa para todos.
 
-### Los trabajadores remotos son flojos
+La clave para construir buenas relaciones a distancia es la intención, debemos esforzarnos más de lo habitual para encontrar intereses comunes, tener reuniones significativas y comprender verdaderamente la perspectiva de cada persona. Para esto todos debemos tener en cuenta lo siguiente:
 
-Cualquier trabajador, independientemente de su ubicación, puede ser flojo si los líderes no comunican adecuadamente las expectativas y los plazos. Si alguien entiende de qué trabajo es responsable (objetivos) y cuándo debe hacerse (plazos), y trabaja en consecuencia (con actualizaciones de estado periódicas), entonces seguramente trabajarán bien, sin importar dónde estén ubicados.
+- **La empatía lo es todo**, siempre asumir una intención positiva. El tono y los matices pueden perderse en un chat o una videollamada, por lo que asumir que nuestros compañeros vienen de una posición positiva ayuda con cualquier posible malentendido.
+- **Tratemos a los demás con transparencia**, mantengamos la información importante al alcance de todos, registrando las decisiones tomadas, grabando las reuniones y siempre tomando notas para compartir con los demás.
+- **Esperar estructura**, establecer un proceso y definir una agenda alrededor de las reuniones y actualizaciones para que todos puedan seguir el hilo sin importar su ubicación.
+- **Diferentes pero iguales**, aceptar esta realidad fundamental en donde todos los miembros remotos del equipo son iguales, pero sus experiencias difieren. La clave es ser empático con la situación particular de cada uno.
 
-> _Consejo: Además de una herramienta de chat para una conversación rápida, los líderes también deberían tener videollamadas periódicas con sus informes directos para responder preguntas y conocer cualquier contratiempo._
+### Entorno de trabajo
+Trabajar a distancia tiene sus aspectos positivos y negativos, es por eso que debemos ser muy conscientes de cómo nos debemos adaptar y preparar adecuadamente.
 
-### Depende del trabajador remoto demostrar constantemente que están trabajando.
+- [ ] **Diseña tu rutina de trabajo**, incluyendo pausas para estirar, tomar agua, salir al sol, etc. Puede revisar [este artículo](https://blog.trello.com/es/rutina-diaria-de-trabajo) sobre cómo crear una rutina diaria de trabajo efectiva.
+- [ ] Crea un calendario compartido con tu equipo que incluya las **horas de trabajo disponibles**. Esto facilita el agendar llamadas o citas y te permite controlar tu tiempo, puedes usar [esta plantilla](https://docs.google.com/spreadsheets/d/1Otp1O7-W8eJ01RaD0RIp7bnAASlPbodA2cLVzYteq9c/edit?usp=sharing).
+- [ ] **Escoge tu espacio de trabajo**. Aunque puede sonar atractivo trabajar desde la cama, esto borra la línea entre nuestro lugar de trabajo y el de descanso y puede ser contra productivo. Designa una mesa donde te sientas cómodo y **arma el ambiente ideal para ser productivo**.  Te dejamos [estos tips](https://www.3buro.mx/blog/mejorar-tu-espacio-de-trabajo/).
 
-Muchos trabajadores remotos sienten que constantemente necesitan estar "visibles" en sus espacios de trabajo digitales para "probar" que están trabajando. Sienten que necesitan estar presentes para cada discusión en el chat, o no pueden dejar que una notificación quede sin respuesta por más de unos minutos.
+## Estructurar el trabajo remoto 🗂
+Al igual que el trabajo presencial, el trabajo a distancia requiere de igual o mayor nivel de planificación de las tareas para que se cumplan los objetivos.
 
-Si los trabajadores remotos sienten que esta presión es visible, probablemente se deba a la idea de que no están siendo valorados al mismo nivel que los trabajadores en la oficina.
+Para realizar el trabajo a distancia es fundamental contar con herramientas de colaboración en línea y de comunicación remota que nos permitan trabajar de manera conjunta y comunicarnos en tiempo real, tratando de replicar la dinámica que llevamos en la oficina.  En general, las distintas dependencias y e instituciones públicas cuentan con algún paquete de ofimática en línea, ya sea *Google G Suite* o *Microsoft Office 365* . La recomendación es que utilicemos las herramientas que ya nos provee nuestro correo institucional.
 
-> _Consejo: Todos deben indicar los tiempos de "trabajo ininterrumpido" en su día, o usar una actualización de estado en su herramienta de chat para indicar su disponibilidad. Los trabajadores remotos se levantan y van a trabajar todos los días como todos los demás, (excepto que probablemente no tengan que viajar a una oficina)._
+### Identificación de tareas a desarrollar a distancia
+Como punto de partida, podemos hacer un mapeo de todos los procesos o tareas de nuestro equipo, identificando cuáles pueden ser realizadas de manera remota, cuáles se pueden adaptar y cuáles no se pueden realizar y priorizar de acuerdo a su importancia.
 
-### Los trabajadores remotos están disponibles todo el día.
+- **Tareas que funcionan de manera remota** - Todas las tareas y procesos que por su naturaleza son digitales y se realizan siempre en línea, ya sea a través de correo, chat o cualquier plataforma digital.
+- **Tareas que se pueden adaptar de manera remota** - Todas las tareas y procesos que pueden de alguna manera adaptarse para que realicen de manera remota o se adapten de manera parcial para cumplir el mismo objetivo.
+- **Tareas que no se pueden realizar de manera remota** - Todas las tareas y procesos que por su naturaleza requieren de actividades presenciales y que no se podrían realizar de cualquier otra manera.
 
-Es fácil suponer que debido a que alguien siempre está en casa, está disponible para responder una pregunta rápida de trabajo en cualquier momento. Esto es inequívocamente falso.
-Una de las mejores prácticas de trabajo remoto más importantes es establecer horarios de trabajo estrictos, tal como lo harían si trabajaran desde la oficina. Se alienta a los trabajadores remotos a que decidan (y se comuniquen) las horas disponibles, tomen descansos para comer y se desconecten físicamente y salgan de su espacio de trabajo cuando se dedican a su vida hogareña.
+> 👉Puedes usar el siguiente [formato](https://docs.google.com/document/d/1LRhF6wj1i4_IqVnEdarabT-68XYSUZ-IjEk90S9ayEQ/edit?usp=sharing) para hacer esta actividad.👈
 
-> _Consejo: Realice un seguimiento de la disponibilidad del día laboral en una junta de equipo donde se aloja otra información importante. Si no está claro si hay alguien disponible actualmente, ¡puede volver a verificar el documento para asegurarse!_
+### Definir el trabajo de la semana
+Es necesario desarrollar un plan semanal que considere las tareas a nivel personal y a nivel colectivo que se requieren y generar las condiciones para controlar y coordinar el avance de su cumplimiento. Realiza los siguientes pasos:
 
-## Dinámicas de Socialización
+1. Definir los objetivos a cumplir por el equipo durante la semana.
+2. Determinar en conjunto las tareas a realizar para el cumplimiento de los objetivos.
+3. Clasificar las tareas que se realizan de manera individual y cuáles corresponden a un trabajo colaborativo en equipo, definiendo siempre a un responsable final.
+4. Acordar metas individuales de trabajo semanal y metas semanales del trabajo grupal.
+5. Acordar las sesiones grupales remotas para las tareas que requieren colaboración del equipo.
+6. Revisar el cumplimiento de los avances del trabajo y revisar individualmente con cada miembro del equipo las dificultades que tuvo en el desarrollo de su trabajo.
+7. Retroalimentar a los miembros del equipo respecto de los avances y desafíos a abordar.
 
-<!-- ### Ayuntamiento de toda la oficina
+> 👉Puedes usar el siguiente [formato](https://docs.google.com/spreadsheets/d/1wLQOm11e-ktCu5lWVy9bGDOgkayXzDSgAGOv05MBac8/edit?usp=sharing) para hacer esta actividad.👈
 
-Deseche las nociones del tradicional discurso de actualización trimestral. Este debería ser un foro abierto para preguntas, debates y presentaciones (cortas) en equipo que se realicen al menos una vez al mes.
+**Recomendación:**
+Haz el seguimiento a tareas usando [Kanban](https://blog.trello.com/es/metodologia-kanban), esta metodología plantea la importancia de la visualización del trabajo por parte de todos los miembros del equipo, normalmente en un tablero físico en la oficina, y en este caso un tablero “virtual” (recomendamos [Trello](https://trello.com/home) para esto), para poder saber el estado de avance de las tareas y poner foco en el término de tareas en vez de abrir demasiadas tareas en paralelo con el riesgo de no finalizarlas.
 
-Cada ayuntamiento de Trello se abre con una revisión de los valores, prioridades y aniversarios de los empleados de la compañía. Luego, los nuevos empleados pueden presentarse. El resto de la hora se llena con temas de agenda que se obtienen de la compañía por adelantado.
+### Estructurar el espacio digital de trabajo
+Ahora que ya tenemos una idea de los que podríamos o no podríamos hacer de manera remota, debemos de estructurarlo en un espacio de trabajo compartido. Es muy importante que la mayor cantidad de información esté disponible para todos en todo momento, por esta razón los archivos y documentos compartidos en la nube son necesarios.
 
-### Oh Hey There, Mr. Rogers
+![Drive](../assets/images/metrics/drive.png)
 
-A medida que las empresas crecen, no puede garantizar que todos sepan o hablen con los demás. Escriba "Sr. Rogers ", una agrupación aleatoria semanal de 15 minutos de miembros del equipo que se conectan en un video chat para, bueno, solo chatear.
+> 👉Ejemplo de [guía de estructura](https://drive.google.com/file/d/1bHJr8_rHJTceW131JfOb4zhvKVf3DjUv/view?usp=sharing) de archivos compartidos y documentos colaborativos.👈
 
-Después de la sesión, se registra una captura de pantalla de los miembros y aspectos destacados. ¿De qué otra forma podrías aprender que Bobby preferiría luchar contra 1 langosta del tamaño de una mafia que empuña una antorcha en lugar de 700 turbas del tamaño de una langosta? -->
+## Retroalimentación
+La sobre comunicación es muy importante cuando se trabaja de manera remota.
 
-## Recomendaciones de Salud
+La comunicación es esencial ya que trabajando a distancia se pierden muchos de los detalles e intenciones que normalmente estamos acostumbrados a percibir a través del lenguaje corporal. Es recomendable tener un **Stand-up diario**, esto es una reunión muy corta (15 min) con todos los miembros del equipo para ver los avances que tuvieron durante el día anterior en donde realicemos las siguientes preguntas:
 
-Trabajar de forma remota significa que obtienes más tiempo tranquilo y directo para hacer un trabajo ininterrumpido. ¡Pero es agotador!
+1. **¿Qué hice ayer?**
+2. **¿Qué voy a hacer hoy?**
+3. **¿Qué te está impidiendo progresar?**
 
-Crea descansos de 5 minutos en tu día: camina alrededor de la casa, llame a algún familiar, acaricia a tu mascota. Cuídate para que aún te quede gasolina en el tanque el viernes para disfrutar de tu tiempo personal.
+Los miembros del equipo deben conocer la estructura, la duración y las expectativas de las reuniones del equipo, nada es más eficiente que una reunión en la que todos los interesados sepan qué se está discutiendo, cuánto durará y qué preparar. En un inicio es recomendable hacerlo de manera diaria y una vez que se sientan cómodos cambiar a hacerlo solo una vez a la semana. Puedes consultar [estas recomendaciones](https://blog.kezmo.com/consejos-%C3%A1giles-para-stand-up-meetings-reuniones-diarias-281352668406).
