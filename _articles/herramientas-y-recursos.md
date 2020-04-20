@@ -79,3 +79,8 @@ Desde seguridad hasta diversión, hay una aplicación o servicio para todo.
 Adicionalmente debemos considerar otras herramientas disponibles para las distintas necesidades que podemos tener trabajando a distancia en nuestros equipos. Esto va desde notas, gestores de contraseñas, clientes de correo, almacenamiento de videos, etc.
 
 > 👉Puedes consultar la siguiente [lista](https://airtable.com/shrSvJOCRC5cFfEJt) para ver todas las herramientas digitales que recomendamos.👈
+
+## Webinar
+Revisamos herramientas digitales como Jamboard, Trello y Airtable para la gestión de tareas y proyectos.
+
+<iframe src="https://player.vimeo.com/video/409850606" width="640" height="375" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

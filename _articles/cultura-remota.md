@@ -110,3 +110,8 @@ Cómo organizamos el trabajo colaborativo en línea para la elaboración de info
 5. Se recomienda que de forma periódica el responsable global del trabajo, vaya haciendo revisiones, sugerencias o comentarios, para asegurar la visión común.
 6. Se recomienda que cada integrante del equipo pueda revisar el trabajo y hacer los comentarios respectivos antes de la entrega final.
 7. Por último, sostengan una reunión final para dar cierre al documento y evaluar el cumplimiento del objetivo. Pueden destinar un tiempo para realizar una retroalimentación general sobre el trabajo colaborativo en línea
+
+## Webinar
+Herramietnas de comunicación y trabajo a distancia para reuniones virtuales, documentos compartidos y chats de equipo.
+
+<iframe src="https://player.vimeo.com/video/409846196" width="640" height="375" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
