@@ -1,12 +1,13 @@
 ---
 lang: en
-title: Cultura Remota
-description: Cómo crear una estructura efectiva para tu equipo y sus colaboradores.
+title: Comunicación y Colaboración
+description: Herramientas y mejores prácticas para tener una comunicación y colaboración efectiva.
 class: leadership
 toc:
-  cultura-de-equipo: "Cultura de Equipo"
-  roles-y-funciones: "Roles y funciones"
-  co-creación-de-estrategias: "Co-creación de estrategias"
+  oficina-en-línea: "Oficina en línea"
+  comunicación-externa: "Comunicación externa"
+  comunicación-interna: "Comunicación interna"
+  colaboración-en-línea: "Colaboración en línea"
 order: 2
 image: /assets/images/cards/leadership.png
 related:
@@ -14,125 +15,98 @@ related:
   - beginners
 ---
 
-## Cultura de Equipo
+## Oficina en línea 🌐
+Emulando la interacción que se puede tener de forma presencial en la oficina.
 
-Empieza por tener una conversación con tu equipo de trabajo y tus colaboradores.
+Es fundamental contar con herramientas de colaboración en línea y de comunicación remota que nos permitan trabajar de manera conjunta y comunicarnos en tiempo real. Los servidores públicos contamos con un correo institucional y los servicios de *Google G Suite*o *Microsoft Office 365*, además de los distintos programas que podemos utilizar de manera gratuita.
 
-Para probar esta forma de trabajo, ya que la curva de aprendizaje es tan corta como la capacidad de empatía, confianza y compromiso entre ustedes.
+Cuando nos comunicamos digitalmente, nunca sabemos lo que está haciendo la otra persona en ese momento. Sin comprender el contexto de la otra persona, podemos asumir erróneamente las demás personas están siempre disponibles, cuando no es así. Todos los miembros del equipo deben poder entender el contexto fácilmente y retomar donde otros lo dejaron, en lugar de no saber qué sucedió mientras estaban ocupados. Es por esto que es necesario usar una herramienta de comunicación adecuada que pueda separar los diferentes temas de conversación.
 
-El trabajo remoto efectivo comienza desde arriba. Cuando los líderes de un equipo corrigen comportamientos no amigables para el trabajo remoto y ponen en marcha procesos inclusivos, los efectos se convierten en una experiencia exitosa para todos. La clave para construir grandes relaciones remotas es la intención. Debe esforzarse más para encontrar intereses comunes, tener reuniones significativas y comprender verdaderamente la perspectiva de cada persona.
+> La sobre-comunicación siempre es mejor que hacer suposiciones.  
 
-- **La empatía lo es todo**: siempre asume una intención positiva. El tono y los matices pueden perderse en el chat, por lo que asumir que su colega viene de un lugar positivo ayuda con cualquier posible malentendido.
-- **Trata a los demás con transparencia**: mantén la información importante al alcance de todos, registre decisiones de chat lateral, grabe reuniones de video y siempre tome notas para compartir espacios públicos.
-- **Espera estructura**: establecer un proceso, estructura y agenda alrededor de reuniones y actualizaciones para que todos puedan seguir sin importar su ubicación. Asigne un líder de la reunión y escriba para asegurarse de que las decisiones clave se capturen por escrito.
-- **Diferentes pero iguales: acepte esta realidad fundamental**: todos los miembros remotos del equipo son iguales, pero sus experiencias difieren. La clave es ser considerado.
+## Comunicación externa 📧
+Conecta con los colaboradores de otros equipos y otras instituciones.
 
-### Co-creación de estrategias
+### Correo electrónico
+El medio de comunicación más común que usamos día a día, es importante mantener todas las comunicaciones formales a través de nuestro correo institucional para asegurarnos que esta comunicación se mantenga profesional.
 
-Al final este proceso no es completamente individual y para encontrar la fórmula perfecta es importante escuchar las necesidades de tu equipo, de tus colaboradores y de ti mismo.
+Aunque es muy común usar el correo electrónico para enviar todo tipo de mensajes y archivos, **debemos intentar sólo usar el correo como medio de comunicación formal**. Es decir cuando se requiera de la evidencia electrónica de la comunicación, porque así lo requiera un proceso o cuando es para algún fin especifico. Para comunicarnos con nuestro equipo o trabajar de manera colaborativa existen mejores herramientas que nos permiten comunicarnos en tiempo real.
 
-- Hay decenas de plataformas que te facilitan la definición de metas y seguimiento remoto como Asana, Trello y Slack. Explora y elige la que mejor se adecue a tu equipo. Tal vez no sea ninguna de esas y un simple grupo de Whatsapp te ayude a colaborar.
-- Permítanse fallar y aprender. Mientras más rápido fallas, más rápido aprendes.
-- Cuando lo requieras, pide ayuda a un experto.
+### Reuniones virtuales o videollamadas
+Tanto los miembros del equipo como nuestros colaboradores externos deben conocer la estructura, la duración y las expectativas de las reuniones del equipo, nada es más eficiente que una reunión en la que todos los interesados sepan qué se está discutiendo, cuánto durará y qué preparar. Ten en cuenta lo siguiente:
 
-## Entorno de Trabajo
+**Antes**
+- [ ] Definir el objetivo y agenda de la reunión, quiénes participan y qué deberían de tener listo.
+- [ ] Agendar con antelación y enviar el link a todos los participantes.
+- [ ] Recordar a los participantes que prueben el acceso a la plataforma y el correcto funcionamiento del audio y video con antelación.
 
-Las mejores prácticas para trabajar a distancia y crear un espacio de trabajo efectivo.
+**Durante**
+- [ ] Conectarse 5 minutos antes para resolver cualquier inconveniente que se pueda presentar.
+- [ ] Se recomienda que exista un moderador, el cual facilite la conversación, de la palabra y lleve los temas de la agenda.
+- [ ] Otra persona puede ir registrando las ideas y comentarios que surjan en la reunión. Otra forma más colaborativa puede ser la creación de un documento en línea que pueda ser visto y editados por todos a la vez.
+- [ ] Cada participante debe solicitar la palabra y respetar los turnos de habla cuando corresponda para generar un diálogo fluido.
+- [ ] Al finalizar, se recomienda un breve resumen de los temas y compromisos que se generaron.
 
-### Flexibilidad y disponibilidad
+**Después**
+- [ ] Enviar la minuta o documento resumen de la reunión a todos los participantes con los acuerdos, fechas, etc.
+- [ ] Dar seguimiento a los acuerdos.
 
-Trabajar a distancia tiene sus pros y contras, es por eso que debemos ser muy conscientes de cómo nos debemos adaptar y preparar adecuadamente.
-
-- **Diseña tu rutina de trabajo**, incluyendo pausas para estirar, tomar agua, salir al sol, etc.
-- Crea un calendario compartido con tu equipo que incluya las **horas de trabajo disponibles**. Esto facilita el agendar llamadas o citas y te permite controlar tu tiempo.
-- **Escoge tu espacio de trabajo**. Aunque puede sonar atractivo, trabajar desde la cama borra un poco la línea entre nuestro lugar de trabajo y nuestro lugar de descanso y puede ser contra productivo.
-- Designa una mesa donde te sientas cómodo y **arma el ambiente ideal para ser productivo** con detalles como una silla cómoda y buena conexión a Internet.
-
-
-### Espacio de trabajo
-
-Nunca trabajes desde tu cama.
-
-- Se hace más difícil quedarse dormido porque trabajar desde la cama debilita la asociación mental entre tu cama y el sueño.
-- Puedes empezar a sentir que siempre estás en el trabajo y perder un lugar para volver a casa.
-- La calidad de sueño disminuirá porque usar productos electrónicos antes de acostarse reduce la melatonina que necesita para conciliar el sueño.
-
-**Antes de empezar a trabajar:**
-
-- Designa bien tu espacio de trabajo.
-- Trabajar en un espacio limpio y bien organizado.
-- Mantén tu espacio de trabajo libre de distracciones.
-- Intenta trabajar con audífonos.
-- Cuando vayas a trabajar, lleva una botella de agua contigo.
-- Fija un horario de trabajo adecuado a tus actividades.
-No te levantes inmediatamente a trabajar, trata de despertar antes de la hora establecida para despejar la mente.
-
-**A la hora de Trabajar:**
-
-- Define (solo o en conjunto) en lo que trabajarás hoy, ten en cuenta la meta del día.
-- Aprende a identificar cuando desconectarte (si es que no tienes horario fijo de trabajo).
+> 👉 Puedes usar el siguiente [formato](https://docs.google.com/document/d/1tjeX3pJuUr-0H2aaJPAPB-_gW102z36Yh8LSn3VGUA4/edit?usp=sharing) de minuta para esto. 👈  
 
 
-### Aislamiento físico
+### Programar reuniones
+Los programas para realizar videollamadas como Google Meet o Zoom cuentan con la función de invitar directamente a las personas a través de su correo electrónico, compartiendo un link único para ingresar o a través de un número telefónico y un pin en caso de no contar con acceso a internet.
 
-El aislamiento social puede tener un impacto negativo en nuestro estado de ánimo por la falta de contacto humano como lo hemos experimentado hasta ahora.
+> 👉  Te dejamos estas guías para utilizar [Zoom](https://docs.google.com/document/d/1-Dgyt_bl3i-_qrnHkNbpeSed6WohBQ5mCK8Mg5_nfIY/edit?usp=sharing), [Google Meet](https://techcetera.co/guia-rapida-para-aprender-a-usar-google-hangouts-meet/) y [Microsoft Teams](https://download.microsoft.com/download/3/6/C/36C9C203-8075-472C-9BFD-D6A08D9DFD64/Teams%20QS.pdf). 👈  
 
-- **Encuentra a tu tribu**. Identifica a personas cercanas que también estén trabajando de manera remota y organiza una llamada grupal para trabajar al mismo tiempo. No tienen que trabajar en lo mismo, no tienen que hablar, solo con saber que hay alguien al otro lado de la llamada trabajando puede cambiar radicalmente la experiencia y brindar compañía.
-- **Disfruta tener a tu familia**, mascotas y/o plantas cerca. ¡Cuídalas!
-- **Crea una playlist compartida** — Descubre las canciones que te inspiran y te traen creatividad. Escucha un podcast o simplemente pon ruido blanco de fondo. Lo que te funcione para concentrarte mejor.
-- **Designa tiempo específico para revisar tus redes sociales** - Platica con tus amigos, mantente en contacto con humanos que conoces sin perderte en el eterno desplazamiento hacia abajo de la procrastinación.
+Adicionalmente podemos utilizar herramientas como [Calendly](https://calendly.com/), una herramienta que nos ayuda a programar múltiples reuniones con diferentes personas sin tener que programar y enviar correos de manera individual.
 
-## Comunicación y Colaboración
+## Comunicación interna 💬
+La sobre-comunicación siempre es mejor que hacer suposiciones.
 
-El contexto importa y mucho.
+### Chats y mensajes instantáneos
+Un grupo de WhatsApp aunque sencillo, resulta poco práctico una vez que hay más de 5 personas, ya que podemos perdernos en los mensajes muy fácilmente. Sin la información sobre el contexto de las otras personas de nuestro equipo podemos hacer suposiciones erróneas, no es que a nuestro compañero de trabajo no le importe, simplemente pueden estar indispuestas en ese momento. Lo mejor es utilizar una herramienta de chat para equipos dedicada como lo es Slack o Microsoft Teams.
 
-Cuando te comunicas digitalmente, nunca sabes lo que está haciendo la otra persona en ese momento. Sin comprender el contexto de la otra persona, puedes pensar que a esa persona no está trabajando, cuando en realidad solo están ocupados.
+### Slack/ Teams
+La forma más sencilla de entender estas herramientas de comunicación, es imaginarlas como una oficina virtual y funciona parecido a como lo hace WhatsApp pero con funciones dedicadas para organizar los mensajes. Algunas de las características de estas aplicaciones son:
 
-### Contexto
+* En lugar de una única bandeja de entrada desbordada, las conversaciones  fluyen en espacios específicos llamados canales.
+* Simplifica el seguimiento de las conversaciones o la búsqueda de información importante.
+* A diferencia del correo electrónico, puedes elegir qué conversaciones son más importantes y deseamos ser notificados y cuáles pueden esperar.
+* Se integran directamente con otros servicios como calendarios, almacenamiento en la nube, videollamadas, gestión de tareas, etc.
 
-Todos los miembros del equipo deben poder entender el contexto fácilmente y retomar donde otros lo dejaron, en lugar de no saber qué sucedió mientras estaban ocupados. Es por esto que es necesario usar una herramienta de comunicación adecuada que pueda separar los diferentes temas de conversación.
+> 👉 Puedes consultar la siguiente [guía](https://slack.com/intl/es-mx/resources/slack-101) para saber más al respecto. 👈  
 
-Un grupo de whatsapp aunque sencillo, resulta poco práctico una vez que hay más de 5 personas, ya que puedes perderte en los mensajes muy fácilmente y con la información sobre el contexto de esa persona, de repente, las respuestas breves tienen sentido: no es que a su compañero de trabajo no le importe, simplemente están indispuestas en este momento.
+### En resumen
+La pregunta importante que debemos hacernos es **cómo y cuándo usar las herramientas digitales** para transmitir la información correcta.
 
-<aside markdown="1" class="pquote">
-  La sobre-comunicación siempre es mejor que hacer suposiciones.
-</aside>
+> ¿La información es sensible al tiempo? Si es así, utiliza el chat. Si no, usa cualquier otra herramienta.  
 
-### Reglas básicas
+1. **Para tomar acuerdos o asignar tareas en torno a un proyecto.**
+* De menor complejidad: utiliza el correo electrónico.
+* De mayor complejidad: realiza una videollamada y envía un correo electrónico para comunicar los acuerdos.
 
-La pregunta importante que deben hacerse es cómo y cuándo usar las herramientas digitales para transmitir la información correcta.
+2. **Para mostrar avances y resolver dudas en torno a un proyecto.**
+3. **Para presentar un informe, resultados y conclusiones de un proyecto.**
+* Envía un documento con los avances previamente a la reunión e invita a que las personas te escriban sus sugerencias, preguntas o comentarios antes de la reunión.
+* Sostén una reunión con todos los involucrados. Puedes partir con un contexto sobre el informe y posteriormente resolver las dudas previamente enviadas.
+* Comunica a través de un correo un resumen de los avances y de las dudas resueltas en la reunión. Puedes agregar una párrafo sobre los próximos pasos del proyecto.
 
-<aside markdown="1" class="pquote">
-  ¿La información es sensible al tiempo? Si es así, utiliza el chat. Si no, usa cualquier otra herramienta.
-</aside>
 
-También considera cuándo es mas conveniente usar:
+## Colaboración en línea 📝
+Cómo estructuramos un esquema de trabajo con los demás.
 
-- Chat vs videollamada
-- Correo electrónico
-- Documentos en la nube
+En general, recomendamos utilizar las herramientas digitales de las que dispone nuestra institución o dependencia, de esta forma, todos tus compañeros de trabajo podrán acceder a ella desde sus cuentas institucionales. Y también cumplimos con las normativas de seguridad establecidas previamente por el área de TI.
 
-### Reuniones virtuales
+> 👉  Te dejamos el siguiente [curso en línea](https://aprendeleon.com/course/uso-y-practica-de-google-docs-y-g-suite/) de uso y práctica de Google Docs y G Suite 👈  
 
-Si quieres evitar las reuniones que parecen monólogos aparentemente interminables. Los miembros del equipo deben conocer la estructura, la duración y las expectativas de las reuniones del equipo, nada es más eficiente que una reunión en la que todos los interesados sepan qué se está discutiendo, cuánto durará y qué preparar.
+### Organizar trabajo colaborativo
+Cómo organizamos el trabajo colaborativo en línea para la elaboración de informes, documentos, presentaciones y otros proyectos.
 
-<aside markdown="1" class="pquote">
-  Crear participación y estructura democratizadas hace que las reuniones sean sencillas de manejar.
-</aside>
-
-- **Define** si es una junta para resolver dudas, tomar decisiones o presentar una propuesta.
-- **Vístete para la reunión** — Preséntate así como te vistes para una reunión si fuera presencial.
-- **Utiliza audífonos y micrófono** — Te ayudarán a escuchar claramente la voz de los demás y a cancelar la mayoría de los ruidos ambientales alrededor de ti.
-- **Micrófono en Mudo/Mute** — Antes de entrar a la reunión y cuando no estés hablando, apaga tu micrófono para evitar ruidos de fondo que puedan distraer o molestar a los asistentes. Revisa que esté encendido antes de volver a hablar.
-- **Video encendido** — ¡Humaniza la llamada! Ten en cuenta que aproximadamente el 70% de nuestra comunicación es no verbal. Enciende tu cámara e interactúa con las personas en la llamada mirando sus caras y reaccionando naturalmente a sus comentarios.
-- Solo **apaga el video en caso de que la conexión sea mala** e interfiera con la conversación.
-- **Chat activo** — Habilita el chat y úsalo para hacer comentarios y compartir herramientas sin interrumpir a quien está hablando. Asigna a una persona para que siempre esté leyendo los comentarios. Procura que siempre vayan en línea con la conversación actual para evitar dos conversaciones simultáneas.
-- **No multitasking**. Estar presente lleva a que la reunión sea ágil, clara y efectiva. Abre una ventana exclusivamente para tu llamada o utiliza la opción de “nuevo escritorio” para concentrarte en la reunión.
-
-### Colaboración a distancia
-
-Los documentos en la nube son el mejor aliado para colaborar entre varias personas y equipos.
-
-- Revisa el objetivo de las juntas que normalmente se llevan a cabo y determina si es realmente necesario que se reúnan de manera síncrona.
-- Lleva la conversación a un documento en la nube - Utiliza las funciones de sugerencias y comentarios para revisar el proyecto de manera asíncrona.
-- Asigna tareas a través de la plataforma con un simple “@” .
+1. Sostener una reunión virtual para alinear el objetivo del trabajo, informe, documento, presentación que tengamos que realizar.
+2. Una vez determinado el objetivo, durante la reunión, creen un borrador que contenga los componentes o líneas de trabajo para llegar al objetivo. Se recomienda usar un documento en línea compartido utilizando las herramientas que tiene la institución (*Google, Microsoft Office*u otros*).
+3. Una vez determinadas las líneas de trabajo para cumplir con el objetivo, se recomienda hablar de las expectativas de cada una, asignando responsables, tareas claras y fechas de entrega. Es necesario que haya un responsable global, quien coordina el trabajo colaborativo.
+4. Se recomienda sostener reuniones de actualización mediante videollamada, al menos durante la mitad del trabajo colaborativo. De esta forma se orienta y dirige el trabajo hacia el objetivo común. Se sugiere que las personas responsables de la misma línea de trabajo, sostengan reuniones de avance para ir alineando sus entregas.
+5. Se recomienda que de forma periódica el responsable global del trabajo, vaya haciendo revisiones, sugerencias o comentarios, para asegurar la visión común.
+6. Se recomienda que cada integrante del equipo pueda revisar el trabajo y hacer los comentarios respectivos antes de la entrega final.
+7. Por último, sostengan una reunión final para dar cierre al documento y evaluar el cumplimiento del objetivo. Pueden destinar un tiempo para realizar una retroalimentación general sobre el trabajo colaborativo en línea

@@ -7,6 +7,7 @@ toc:
   nuevos-modelos-de-gestión: "Nuevos modelos de gestión"
   resiliencia: "Resiliencia"
   cambios-de-comportamiento: "Cambios de comportamiento"
+order: 4
 image: /assets/images/cards/best-practices.png
 related:
   - beginners
