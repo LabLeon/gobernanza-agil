@@ -8,7 +8,7 @@ toc:
   comunicación-externa: "Comunicación externa"
   comunicación-interna: "Comunicación interna"
   colaboración-en-línea: "Colaboración en línea"
-  webinar: "webinar"
+  webinar: "Webinar"
 order: 2
 image: /assets/images/cards/leadership.png
 related:
