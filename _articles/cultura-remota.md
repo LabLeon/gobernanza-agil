@@ -19,11 +19,15 @@ related:
 ## Oficina en línea
 🌐 Emulando la interacción que se puede tener de forma presencial en la oficina.
 
-Es fundamental contar con herramientas de colaboración en línea y de comunicación remota que nos permitan trabajar de manera conjunta y comunicarnos en tiempo real. Los servidores públicos contamos con un correo institucional y los servicios de *Google G Suite*o *Microsoft Office 365*, además de los distintos programas que podemos utilizar de manera gratuita.
+Es fundamental contar con herramientas de colaboración en línea y de comunicación remota que nos permitan trabajar de manera conjunta y comunicarnos en tiempo real. Los servidores públicos contamos con un correo institucional y los servicios de *Google G Suite o *Microsoft Office 365*, además de los distintos programas que podemos utilizar de manera gratuita.
 
 Cuando nos comunicamos digitalmente, nunca sabemos lo que está haciendo la otra persona en ese momento. Sin comprender el contexto de la otra persona, podemos asumir erróneamente las demás personas están siempre disponibles, cuando no es así. Todos los miembros del equipo deben poder entender el contexto fácilmente y retomar donde otros lo dejaron, en lugar de no saber qué sucedió mientras estaban ocupados. Es por esto que es necesario usar una herramienta de comunicación adecuada que pueda separar los diferentes temas de conversación.
 
-> La sobre-comunicación siempre es mejor que hacer suposiciones.  
+<aside markdown="1" class="pquote">
+  La sobre-comunicación siempre es mejor que hacer suposiciones.  
+  <p markdown="1" class="pquote-credit">
+  </p>
+</aside>
 
 ## Comunicación externa
 📧 Conecta con los colaboradores de otros equipos y otras instituciones.
@@ -32,6 +36,8 @@ Cuando nos comunicamos digitalmente, nunca sabemos lo que está haciendo la otra
 El medio de comunicación más común que usamos día a día, es importante mantener todas las comunicaciones formales a través de nuestro correo institucional para asegurarnos que esta comunicación se mantenga profesional.
 
 Aunque es muy común usar el correo electrónico para enviar todo tipo de mensajes y archivos, **debemos intentar sólo usar el correo como medio de comunicación formal**. Es decir cuando se requiera de la evidencia electrónica de la comunicación, porque así lo requiera un proceso o cuando es para algún fin especifico. Para comunicarnos con nuestro equipo o trabajar de manera colaborativa existen mejores herramientas que nos permiten comunicarnos en tiempo real.
+
+![Google Drive](../assets/images/herramientas/drive.png)
 
 ### Reuniones virtuales o videollamadas
 Tanto los miembros del equipo como nuestros colaboradores externos deben conocer la estructura, la duración y las expectativas de las reuniones del equipo, nada es más eficiente que una reunión en la que todos los interesados sepan qué se está discutiendo, cuánto durará y qué preparar. Ten en cuenta lo siguiente:
@@ -109,6 +115,8 @@ Tanto los miembros del equipo como nuestros colaboradores externos deben conocer
   </label>
 </div>
 
+![Zoom](../assets/images/herramientas/zoom.png)
+
 > 👉 Puedes usar el siguiente [formato](https://docs.google.com/document/d/1tjeX3pJuUr-0H2aaJPAPB-_gW102z36Yh8LSn3VGUA4/edit?usp=sharing) de minuta para esto. 👈  
 
 
@@ -133,12 +141,19 @@ La forma más sencilla de entender estas herramientas de comunicación, es imagi
 * A diferencia del correo electrónico, puedes elegir qué conversaciones son más importantes y deseamos ser notificados y cuáles pueden esperar.
 * Se integran directamente con otros servicios como calendarios, almacenamiento en la nube, videollamadas, gestión de tareas, etc.
 
+![Slack](../assets/images/herramientas/slack_2.png)
+
 > 👉 Puedes consultar la siguiente [guía](https://slack.com/intl/es-mx/resources/slack-101) para saber más al respecto. 👈  
 
 ### En resumen
 La pregunta importante que debemos hacernos es **cómo y cuándo usar las herramientas digitales** para transmitir la información correcta.
 
-> ¿La información es sensible al tiempo? Si es así, utiliza el chat. Si no, usa cualquier otra herramienta.  
+<aside markdown="1" class="pquote">
+  ¿La información es sensible al tiempo? Si es así, utiliza el chat. Si no, usa cualquier otra herramienta.
+  <p markdown="1" class="pquote-credit">
+  Chat vs Correo electrónico
+  </p>
+</aside>
 
 1. **Para tomar acuerdos o asignar tareas en torno a un proyecto.**
 * De menor complejidad: utiliza el correo electrónico.
@@ -155,6 +170,8 @@ La pregunta importante que debemos hacernos es **cómo y cuándo usar las herram
 📝 Cómo estructuramos un esquema de trabajo con los demás.
 
 En general, recomendamos utilizar las herramientas digitales de las que dispone nuestra institución o dependencia, de esta forma, todos tus compañeros de trabajo podrán acceder a ella desde sus cuentas institucionales. Y también cumplimos con las normativas de seguridad establecidas previamente por el área de TI.
+
+![Google Docs](../assets/images/herramientas/docs.png)
 
 > 👉  Te dejamos el siguiente [curso en línea](https://aprendeleon.com/course/uso-y-practica-de-google-docs-y-g-suite/) de uso y práctica de Google Docs y G Suite 👈  
 
