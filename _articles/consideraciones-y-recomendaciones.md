@@ -14,8 +14,8 @@ related:
   - leadership
 ---
 
-## Cultura de equipo remoto 👩‍💼
-Adaptarse al cambio significa generar las condiciones necesarias para el trabajo a distancia.
+## Cultura de equipo remoto
+👩‍💼 Adaptarse al cambio significa generar las condiciones necesarias para el trabajo a distancia.
 
 Lograr un ambiente para el trabajo remoto efectivo comienza por los directores y tomadores de decisiones de las instituciones públicas, es esencial entender la importancia de definir una estrategia para los distintos equipos que estarán trabajando a distancia.  La tarea de los líderes de equipo es poner en marcha procesos inclusivos para implementar esta estrategia y corregir los comportamientos no amigables para el trabajo remoto con el fin de lograr una experiencia exitosa para todos.
 
@@ -29,12 +29,29 @@ La clave para construir buenas relaciones a distancia es la intención, debemos 
 ### Entorno de trabajo
 Trabajar a distancia tiene sus aspectos positivos y negativos, es por eso que debemos ser muy conscientes de cómo nos debemos adaptar y preparar adecuadamente.
 
-- [ ] **Diseña tu rutina de trabajo**, incluyendo pausas para estirar, tomar agua, salir al sol, etc. Puede revisar [este artículo](https://blog.trello.com/es/rutina-diaria-de-trabajo) sobre cómo crear una rutina diaria de trabajo efectiva.
-- [ ] Crea un calendario compartido con tu equipo que incluya las **horas de trabajo disponibles**. Esto facilita el agendar llamadas o citas y te permite controlar tu tiempo, puedes usar [esta plantilla](https://docs.google.com/spreadsheets/d/1Otp1O7-W8eJ01RaD0RIp7bnAASlPbodA2cLVzYteq9c/edit?usp=sharing).
-- [ ] **Escoge tu espacio de trabajo**. Aunque puede sonar atractivo trabajar desde la cama, esto borra la línea entre nuestro lugar de trabajo y el de descanso y puede ser contra productivo. Designa una mesa donde te sientas cómodo y **arma el ambiente ideal para ser productivo**.  Te dejamos [estos tips](https://www.3buro.mx/blog/mejorar-tu-espacio-de-trabajo/).
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+    <b>Diseña tu rutina de trabajo</b>, incluyendo pausas para estirar, tomar agua, salir al sol, etc. Puede revisar <a href="https://blog.trello.com/es/rutina-diaria-de-trabajo">este artículo</a> sobre cómo crear una rutina diaria de trabajo efectiva.
+  </label>
+</div>
 
-## Estructurar el trabajo remoto 🗂
-Al igual que el trabajo presencial, el trabajo a distancia requiere de igual o mayor nivel de planificación de las tareas para que se cumplan los objetivos.
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox2" class="overflow-hidden d-block text-normal">
+    Crea un calendario compartido con tu equipo que incluya las <b>horas de trabajo disponibles</b>. Esto facilita el agendar llamadas o citas y te permite controlar tu tiempo, puedes usar <a href="https://docs.google.com/spreadsheets/d/1Otp1O7-W8eJ01RaD0RIp7bnAASlPbodA2cLVzYteq9c/edit?usp=sharing">esta plantilla</a>.
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox3" class="overflow-hidden d-block text-normal">
+    <b>Escoge tu espacio de trabajo</b>. Aunque puede sonar atractivo trabajar desde la cama, esto borra la línea entre nuestro lugar de trabajo y el de descanso y puede ser contra productivo. Designa una mesa donde te sientas cómodo y <b>arma el ambiente ideal para ser productivo</b>.  Te dejamos <a href="https://www.3buro.mx/blog/mejorar-tu-espacio-de-trabajo/">estos tips</a>.
+  </label>
+</div>
+
+## Estructurar el trabajo remoto
+🗂 Al igual que el trabajo presencial, el trabajo a distancia requiere de igual o mayor nivel de planificación de las tareas para que se cumplan los objetivos.
 
 Para realizar el trabajo a distancia es fundamental contar con herramientas de colaboración en línea y de comunicación remota que nos permitan trabajar de manera conjunta y comunicarnos en tiempo real, tratando de replicar la dinámica que llevamos en la oficina.  En general, las distintas dependencias y e instituciones públicas cuentan con algún paquete de ofimática en línea, ya sea *Google G Suite* o *Microsoft Office 365* . La recomendación es que utilicemos las herramientas que ya nos provee nuestro correo institucional.
 
@@ -71,7 +88,7 @@ Ahora que ya tenemos una idea de los que podríamos o no podríamos hacer de man
 > 👉Ejemplo de [guía de estructura](https://drive.google.com/file/d/1bHJr8_rHJTceW131JfOb4zhvKVf3DjUv/view?usp=sharing) de archivos compartidos y documentos colaborativos.👈
 
 ## Retroalimentación
-La sobre comunicación es muy importante cuando se trabaja de manera remota.
+🙌 La sobre comunicación es muy importante cuando se trabaja de manera remota.
 
 La comunicación es esencial ya que trabajando a distancia se pierden muchos de los detalles e intenciones que normalmente estamos acostumbrados a percibir a través del lenguaje corporal. Es recomendable tener un **Stand-up diario**, esto es una reunión muy corta (15 min) con todos los miembros del equipo para ver los avances que tuvieron durante el día anterior en donde realicemos las siguientes preguntas:
 
