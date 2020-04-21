@@ -8,6 +8,7 @@ toc:
   comunicación-externa: "Comunicación externa"
   comunicación-interna: "Comunicación interna"
   colaboración-en-línea: "Colaboración en línea"
+  webinar: "webinar"
 order: 2
 image: /assets/images/cards/leadership.png
 related:
@@ -15,8 +16,8 @@ related:
   - beginners
 ---
 
-## Oficina en línea 🌐
-Emulando la interacción que se puede tener de forma presencial en la oficina.
+## Oficina en línea
+🌐 Emulando la interacción que se puede tener de forma presencial en la oficina.
 
 Es fundamental contar con herramientas de colaboración en línea y de comunicación remota que nos permitan trabajar de manera conjunta y comunicarnos en tiempo real. Los servidores públicos contamos con un correo institucional y los servicios de *Google G Suite*o *Microsoft Office 365*, además de los distintos programas que podemos utilizar de manera gratuita.
 
@@ -24,8 +25,8 @@ Cuando nos comunicamos digitalmente, nunca sabemos lo que está haciendo la otra
 
 > La sobre-comunicación siempre es mejor que hacer suposiciones.  
 
-## Comunicación externa 📧
-Conecta con los colaboradores de otros equipos y otras instituciones.
+## Comunicación externa
+📧 Conecta con los colaboradores de otros equipos y otras instituciones.
 
 ### Correo electrónico
 El medio de comunicación más común que usamos día a día, es importante mantener todas las comunicaciones formales a través de nuestro correo institucional para asegurarnos que esta comunicación se mantenga profesional.
@@ -36,20 +37,77 @@ Aunque es muy común usar el correo electrónico para enviar todo tipo de mensaj
 Tanto los miembros del equipo como nuestros colaboradores externos deben conocer la estructura, la duración y las expectativas de las reuniones del equipo, nada es más eficiente que una reunión en la que todos los interesados sepan qué se está discutiendo, cuánto durará y qué preparar. Ten en cuenta lo siguiente:
 
 **Antes**
-- [ ] Definir el objetivo y agenda de la reunión, quiénes participan y qué deberían de tener listo.
-- [ ] Agendar con antelación y enviar el link a todos los participantes.
-- [ ] Recordar a los participantes que prueben el acceso a la plataforma y el correcto funcionamiento del audio y video con antelación.
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox1" class="overflow-hidden d-block text-normal">
+    Definir el objetivo y agenda de la reunión, quiénes participan y qué deberían de tener listo.
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox2" class="overflow-hidden d-block text-normal">
+    Agendar con antelación y enviar el link a todos los participantes.
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox3" class="overflow-hidden d-block text-normal">
+    Recordar a los participantes que prueben el acceso a la plataforma y el correcto funcionamiento del audio y video con antelación.
+  </label>
+</div>
 
 **Durante**
-- [ ] Conectarse 5 minutos antes para resolver cualquier inconveniente que se pueda presentar.
-- [ ] Se recomienda que exista un moderador, el cual facilite la conversación, de la palabra y lleve los temas de la agenda.
-- [ ] Otra persona puede ir registrando las ideas y comentarios que surjan en la reunión. Otra forma más colaborativa puede ser la creación de un documento en línea que pueda ser visto y editados por todos a la vez.
-- [ ] Cada participante debe solicitar la palabra y respetar los turnos de habla cuando corresponda para generar un diálogo fluido.
-- [ ] Al finalizar, se recomienda un breve resumen de los temas y compromisos que se generaron.
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox4" class="overflow-hidden d-block text-normal">
+    Conectarse 5 minutos antes para resolver cualquier inconveniente que se pueda presentar.
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox5" class="overflow-hidden d-block text-normal">
+    Se recomienda que exista un moderador, el cual facilite la conversación, de la palabra y lleve los temas de la agenda.
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox6" class="overflow-hidden d-block text-normal">
+    Otra persona puede ir registrando las ideas y comentarios que surjan en la reunión. Otra forma más colaborativa puede ser la creación de un documento en línea que pueda ser visto y editados por todos a la vez.
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox7" class="overflow-hidden d-block text-normal">
+    Cada participante debe solicitar la palabra y respetar los turnos de habla cuando corresponda para generar un diálogo fluido.
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox8" class="overflow-hidden d-block text-normal">
+    Al finalizar, se recomienda un breve resumen de los temas y compromisos que se generaron.
+  </label>
+</div>
 
 **Después**
-- [ ] Enviar la minuta o documento resumen de la reunión a todos los participantes con los acuerdos, fechas, etc.
-- [ ] Dar seguimiento a los acuerdos.
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox9" class="overflow-hidden d-block text-normal">
+    Enviar la minuta o documento resumen de la reunión a todos los participantes con los acuerdos, fechas, etc.
+  </label>
+</div>
+
+<div class="clearfix mb-2">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <label for="cbox10" class="overflow-hidden d-block text-normal">
+    Dar seguimiento a los acuerdos.
+  </label>
+</div>
 
 > 👉 Puedes usar el siguiente [formato](https://docs.google.com/document/d/1tjeX3pJuUr-0H2aaJPAPB-_gW102z36Yh8LSn3VGUA4/edit?usp=sharing) de minuta para esto. 👈  
 
@@ -61,8 +119,8 @@ Los programas para realizar videollamadas como Google Meet o Zoom cuentan con la
 
 Adicionalmente podemos utilizar herramientas como [Calendly](https://calendly.com/), una herramienta que nos ayuda a programar múltiples reuniones con diferentes personas sin tener que programar y enviar correos de manera individual.
 
-## Comunicación interna 💬
-La sobre-comunicación siempre es mejor que hacer suposiciones.
+## Comunicación interna
+💬 La sobre-comunicación siempre es mejor que hacer suposiciones.
 
 ### Chats y mensajes instantáneos
 Un grupo de WhatsApp aunque sencillo, resulta poco práctico una vez que hay más de 5 personas, ya que podemos perdernos en los mensajes muy fácilmente. Sin la información sobre el contexto de las otras personas de nuestro equipo podemos hacer suposiciones erróneas, no es que a nuestro compañero de trabajo no le importe, simplemente pueden estar indispuestas en ese momento. Lo mejor es utilizar una herramienta de chat para equipos dedicada como lo es Slack o Microsoft Teams.
@@ -93,8 +151,8 @@ La pregunta importante que debemos hacernos es **cómo y cuándo usar las herram
 * Comunica a través de un correo un resumen de los avances y de las dudas resueltas en la reunión. Puedes agregar una párrafo sobre los próximos pasos del proyecto.
 
 
-## Colaboración en línea 📝
-Cómo estructuramos un esquema de trabajo con los demás.
+## Colaboración en línea
+📝 Cómo estructuramos un esquema de trabajo con los demás.
 
 En general, recomendamos utilizar las herramientas digitales de las que dispone nuestra institución o dependencia, de esta forma, todos tus compañeros de trabajo podrán acceder a ella desde sus cuentas institucionales. Y también cumplimos con las normativas de seguridad establecidas previamente por el área de TI.
 
@@ -114,4 +172,4 @@ Cómo organizamos el trabajo colaborativo en línea para la elaboración de info
 ## Webinar
 Herramietnas de comunicación y trabajo a distancia para reuniones virtuales, documentos compartidos y chats de equipo.
 
-<iframe src="https://player.vimeo.com/video/409846196" width="640" height="375" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div style="padding:58.54% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/409846196?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
