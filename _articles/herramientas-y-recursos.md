@@ -90,5 +90,4 @@ Adicionalmente debemos considerar otras herramientas disponibles para las distin
 ## Webinar
 Revisamos herramientas digitales como Jamboard, Trello y Airtable para la gestión de tareas y proyectos.
 
-<div style="padding:58.54% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/409850606" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/409850606">Lab Le&oacute;n - Herramientas Digitales</a> from <a href="https://vimeo.com/user113366619">Ricardo Mir&oacute;n</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div style="padding:58.54% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/409850606?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
