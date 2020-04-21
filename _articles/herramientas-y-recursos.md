@@ -4,10 +4,11 @@ title: Herramientas Digitales
 description: Facilita la integración de una metodología de trabajo remoto con las herramientas adecuadas.
 class: beginners
 toc:
-  paquetes-de-aplicaciones-en-la-nube-☁️: "Paquetes de aplicaciones en la nube ☁️"
-  gestión-de-proyectos-🗓: "Gestión de proyectos 🗓"
-  comunicación-📱: "Comunicación 📱"
-  otras-herramientas-🛠: "Otras herramientas 🛠"
+  paquetes-de-aplicaciones-en-la-nube: "Paquetes de aplicaciones en la nube"
+  gestión-de-proyectos: "Gestión de proyectos"
+  comunicación: "Comunicación"
+  otras-herramientas: "Otras herramientas"
+  webinar: "Webinar"
 order: 3
 image: /assets/images/cards/beginner.png
 related:
@@ -15,8 +16,8 @@ related:
   - metrics
 ---
 
-## Paquetes de aplicaciones en la nube ☁️
-Las herramientas son más importantes en el trabajo remoto porque son la base de la comunicación.
+## Paquetes de aplicaciones en la nube
+☁️ Las herramientas son más importantes en el trabajo remoto porque son la base de la comunicación.
 
 Ya que no podemos acercarnos al escritorio de alguien para hablar con él o ella físicamente; necesitas adaptar las herramientas para convertirse en una *“oficina virtual”*.
 
@@ -31,8 +32,10 @@ Cuando se trata de colaborar con personas externas a nuestro equipo o instituci�
 * Google docs, sheets y slides.
 * Microsoft word, excel y power point.
 
-## Gestión de proyectos 🗓
- Gestión de tareas y proyectos colaborando de manera remota con nuestros equipos de trabajo.
+![Herramientas digitales](../assets/images/herramientas/herramientas.jpg)
+
+## Gestión de proyectos
+ 🗓 Gestión de tareas y proyectos colaborando de manera remota con nuestros equipos de trabajo.
 
 ### Jamboard
 Jamboard es básicamente un pizarrón virtual, con la ventaja de que lo podemos compartir con las personas de nuestro equipo para hacer anotaciones, dibujar, poner notas, imágenes, entre otras cosas. Esta herramienta está disponible desde las cuentas de Google (o G Suite a través de los correos institucionales) en el menú de aplicaciones.
@@ -45,6 +48,8 @@ En este caso en vez de lápiz y papel o un pizarrón tradicional podemos usar un
 - Lo podemos compartir con más personas por correo electrónico o mandándoles un link. Se puede usar desde nuestro navegador web o podemos descargar las apps y dibujar con nuestros dedos de manera más natural.
 - Jamboard admite hasta 16 puntos de contacto simultáneos en un mismo espacio.
 
+![Jamboard](../assets/images/herramientas/jamboard.png)
+
 
 ### Trello
 Trello es una herramienta que nos permite trabajar de forma más colaborativa a la hora de organizar y priorizar tareas o proyectos. Consta únicamente de 4 elementos clave que podemos usar, estos son tableros, listas, tarjetas y el menú, pero las podemos acomodar de una manera muy flexible para adaptarlo a nuestro flujo de trabajo.
@@ -53,10 +58,12 @@ La manera más popular de usar Trello es para realizar el seguimiento de las tar
 
 Los tableros de Trello también son una excelente manera de almacenar visualmente los recursos y de crear documentos dinámicos. Algunos ejemplos excelentes del uso de los tableros de Trello para el almacenamiento son los manuales de empleado, los recursos de los equipos e incluso cosas personales como recetas de cocina.
 
+![Jamboard](../assets/images/herramientas/trello.png)
+
 > 👉Puedes consultar la siguiente [guía](https://trello.com/es/guide/trello-101.html) para saber más al respecto.👈
 
-## Comunicación 📱
-La selección de estas herramientas es de lo más crucial para el resto de la dinámica de trabajo.
+## Comunicación
+📱 La selección de estas herramientas es de lo más crucial para el resto de la dinámica de trabajo.
 
 ### Videollamadas y webinars
 Cuando la comunicación comienza a ser matizada, confusa o incluso acalorada, es recomendable que utilicemos las videollamadas. De la misma manera que buscaríamos a un compañero de trabajo en su oficina para discutir un tema importante, las videollamadas hace que sea mucho más fácil imitar esta interacción.
@@ -73,8 +80,8 @@ La comunicación transparente es clave para el trabajo remoto exitoso. Casi toda
 * Hangouts chat
 * Whatsapp/ Telegram
 
-## Otras herramientas 🛠
-Desde seguridad hasta diversión, hay una aplicación o servicio para todo.
+## Otras herramientas
+🛠 Desde seguridad hasta diversión, hay una aplicación o servicio para todo.
 
 Adicionalmente debemos considerar otras herramientas disponibles para las distintas necesidades que podemos tener trabajando a distancia en nuestros equipos. Esto va desde notas, gestores de contraseñas, clientes de correo, almacenamiento de videos, etc.
 
@@ -83,4 +90,5 @@ Adicionalmente debemos considerar otras herramientas disponibles para las distin
 ## Webinar
 Revisamos herramientas digitales como Jamboard, Trello y Airtable para la gestión de tareas y proyectos.
 
-<iframe src="https://player.vimeo.com/video/409850606" width="640" height="375" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div style="padding:58.54% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/409850606" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/409850606">Lab Le&oacute;n - Herramientas Digitales</a> from <a href="https://vimeo.com/user113366619">Ricardo Mir&oacute;n</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
