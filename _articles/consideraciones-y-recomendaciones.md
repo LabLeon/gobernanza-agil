@@ -26,27 +26,27 @@ La clave para construir buenas relaciones a distancia es la intención, debemos 
 - **Esperar estructura**, establecer un proceso y definir una agenda alrededor de las reuniones y actualizaciones para que todos puedan seguir el hilo sin importar su ubicación.
 - **Diferentes pero iguales**, aceptar esta realidad fundamental en donde todos los miembros remotos del equipo son iguales, pero sus experiencias difieren. La clave es ser empático con la situación particular de cada uno.
 
-### Entorno de trabajo
-Trabajar a distancia tiene sus aspectos positivos y negativos, es por eso que debemos ser muy conscientes de cómo nos debemos adaptar y preparar adecuadamente.
+### Entorno de trabajo personal
+Trabajar a distancia tiene aspectos positivos y negativos, es por eso que debemos ser conscientes de cómo nos debemos adaptar y preparar adecuadamente.
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    <b>Diseña tu rutina de trabajo</b>, incluyendo pausas para estirar, tomar agua, salir al sol, etc. Puede revisar <a href="https://blog.trello.com/es/rutina-diaria-de-trabajo">este artículo</a> sobre cómo crear una rutina diaria de trabajo efectiva.
+    <b>Diseña tu rutina de trabajo</b>, incluyendo pausas para estirar, tomar agua, salir a tomar el sol, etc. Puede revisar <a href="https://blog.trello.com/es/rutina-diaria-de-trabajo">éste artículo</a> sobre cómo crear una rutina diaria de trabajo efectiva.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Crea un calendario compartido con tu equipo que incluya las <b>horas de trabajo disponibles</b>. Esto facilita el agendar llamadas o citas y te permite controlar tu tiempo, puedes usar <a href="https://docs.google.com/spreadsheets/d/1Otp1O7-W8eJ01RaD0RIp7bnAASlPbodA2cLVzYteq9c/edit?usp=sharing">esta plantilla</a>.
+    Crea un calendario compartido con tu equipo que incluya las <b>horas de trabajo disponibles</b>. Esto facilita el programar llamadas o citas y te permite controlar tu tiempo, puedes usar <a href="https://docs.google.com/spreadsheets/d/1Otp1O7-W8eJ01RaD0RIp7bnAASlPbodA2cLVzYteq9c/edit?usp=sharing">ésta plantilla</a>.
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    <b>Escoge tu espacio de trabajo</b>. Aunque puede sonar atractivo trabajar desde la cama, esto borra la línea entre nuestro lugar de trabajo y el de descanso y puede ser contra productivo. Designa una mesa donde te sientas cómodo y <b>arma el ambiente ideal para ser productivo</b>.  Te dejamos <a href="https://www.3buro.mx/blog/mejorar-tu-espacio-de-trabajo/">estos tips</a>.
+    <b>Escoge tu espacio de trabajo</b>. Aunque puede sonar atractivo trabajar desde la cama, esto borra la línea entre nuestro lugar de trabajo y el de descanso esto puede ser contra productivo. Designa una mesa donde te sientas cómodo y <b>arma el ambiente ideal para ser productivo</b>.  Te dejamos <a href="https://www.3buro.mx/blog/mejorar-tu-espacio-de-trabajo/">estos tips</a>.
   </label>
 </div>
 

@@ -11,19 +11,20 @@ En la antesala de una pandemia mundial causada por el COVID-19, vemos la necesid
 
 En este sentido, hemos diseñado algunas herramientas que serán imprescindibles para el buen funcionamiento de un gobierno ciudadano y cercano. En estos momentos buscamos romper todos los paradigmas que se tienen de una administración pública lenta y burocrática, para convertirnos en una administración empática, ágil y remota.
 
+Aunque poco a poco regresamos a la “cotidianeidad” y volveremos a las oficinas, el teletrabajo  es ya una herramienta indispensable que tomó fuerza y se quedará. Entonces, ¿Cómo nos adaptamos al trabajo a distancia las personas que nos desempeñamos en instituciones públicas?
+
+
 La Guía de Trabajo a Distancia es una colección de recursos para servidores públicos, líderes de equipo y directivos que desean aprender a ejecutar y contribuir a una cultura de trabajo remota.
 
 ### Propósito
 
 Crear una herramienta sencilla y concisa de manera colaborativa que recopile las mejores prácticas y metodología del trabajo remoto, seleccionando las más adecuadas para implementarse en los gobiernos locales y que nos permitan tener una adaptación rápida a las nuevas formas de trabajo usando la tecnología.
 
-### Principios
-
-La guía tiene como principios lo siguiente:
+### Principios de la guía
 
 - **Accesibilidad**: No asumir que el lector tiene conocimiento previo.
 - **Brevedad**: Menter la guía simple, enlazar a contenido externo para más detalles.
-- **Contenido curado**: Resaltar las mejores prácticas de la comunidad frente al punto de vista de cualquier individuo
+- **Contenido**: Resaltar las mejores prácticas de la comunidad frente al punto de vista de cualquier individuo
 
 <!-- ## Contenido
 
@@ -70,7 +71,7 @@ Existen buenas prácticas a seguir, pero todo es un proceso continuo de adaptaci
 
 ¿Quieres hacer una sugerencia?
 
-Este contenido es de código abierto. Ayúdanos a mejorarlo. No importa el perfil que tengas, siempre ocupamos ayuda en diseño, redacción, contenido, estructura, programación, etc.
+Este contenido es de código abierto. Ayúdanos a mejorarlo. No importa el perfil que tengas, siempre necesitamos ayuda en diseño, redacción, contenido, estructura, programación, etc.
 
 Consulta cómo puedes contribuir [aquí](https://github.com/LabLeon/gobierno-agil/blob/master/CONTRIBUIR.md).
 
@@ -78,12 +79,15 @@ Consulta cómo puedes contribuir [aquí](https://github.com/LabLeon/gobierno-agi
 
 La Guía de Trabajo a Distancia se creó y está liderada por [Lab León](http://lableon.org).
 
-Junto con los aportes de revisores externos de la ciudadanía, servidores públicos y otros colaboradores se ha creado este contenido, pero no es contenido exclusivo de Lab León. Una razón por la que comenzamos este proyecto es porque sentimos que no había suficientes recursos enfocados hacia el gobierno y las instancias públicas para los equipos que requieren responder de manera inmediata a la emergencia sanitaria.
+Junto con los aportes de revisores externos de la ciudadanía, servidores públicos y otros colaboradores se ha creado este contenido, para la comunidad de servidores públicos del municipio, aunque no de exclusividad. Una razón por la que comenzamos este proyecto es porque  nos percatamos que no había suficientes recursos enfocados hacia el gobierno y las instancias públicas para los equipos que requieren responder de manera inmediata a la emergencia sanitaria.
 
 Agradecimientos especiales a:
 
 - **Karen DuPont** - Coord. de Innovación Pública y Social @LabLeón
 - **Ricardo Mirón** - Coord. de Datos Abierto @LabLeón
+- **Claudia García** - Coord. de Oficios Digitales @LabLeón
+- **Cristián González** - Coord. Administrativo @LabLeón
+- **Carlos Torres** - Director @LabLeón
 - **Zaid de Anda** - Colaborador ciudadano
 - **Eduardo Hernandez** - Colaborador ciudadano
 
